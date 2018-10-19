@@ -1,5 +1,5 @@
 body {
-  font-family: "Gotham Rounded";
+  font-family: Gotham Rounded;
   background-color:#00062b;
   margin:0;
 }
@@ -21,7 +21,7 @@ nav {
 }
 
 #loogoo {
-  font-family:"Gotham Rounded";
+  font-family:Gotham Rounded;
   padding-left:15px;
 }
 
@@ -47,7 +47,7 @@ nav {
 }
 
 #showtitle {
-  font-family:"Gotham Rounded";
+  font-family:Gotham Rounded;
 }
 
 
@@ -65,7 +65,7 @@ nav {
   grid-column:span 4;
   text-align:center;
   color:#000d23;
-  font-family:"Gotham Rounded";
+  font-family:Gotham Rounded;
 }
 
 #robotics {
@@ -104,7 +104,7 @@ nav {
 }
 
 #contact h2 {
-   font-family:"Gotham Rounded";
+   font-family:Gotham Rounded;
    color:white;
 }
 
