@@ -62,7 +62,7 @@ nav {
 }
 
 #titlee {
-  grid-column:span 5;
+  grid-column:span 4;
   text-align:center;
   color:#000d23;
   font-family:"Gotham Rounded";
@@ -97,7 +97,7 @@ nav {
 }
 
 #contact {
-  grid-column:span 5;
+  grid-column:span 4;
   text-align: center;
   background-color:#4455B2;
   padding: 20px 20px 20px 20px;
