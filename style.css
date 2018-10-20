@@ -1,5 +1,5 @@
 body {
-  font-family: Gotham Rounded;
+  font-family: Roboto;
   background-color:#00062b;
   margin:0;
 }
@@ -21,7 +21,7 @@ nav {
 }
 
 #loogoo {
-  font-family:Gotham Rounded;
+  font-family:Roboto;
   padding-left:15px;
 }
 
@@ -47,7 +47,7 @@ nav {
 }
 
 #showtitle {
-  font-family:Gotham Rounded;
+  font-family:Roboto;
 }
 
 
@@ -65,10 +65,10 @@ nav {
   grid-column:span 4;
   text-align:center;
   color:#000d23;
-  font-family:Gotham Rounded;
+  font-family:Roboto;
 }
 
-#robotics {
+#first {
   grid-column-start:2;
   background-color:#060e38;
   text-align: center;
@@ -78,7 +78,7 @@ nav {
   shadow:10px white;
 }
 
-#machinel {
+#second {
   grid-column-start:3;
   text-align: center;
   background-color:#060e38;
@@ -87,7 +87,7 @@ nav {
   margin:25px 10px 25px 10px;
 }
 
-#comptheory {
+#third {
   grid-column-start:4;
   text-align: center;
   background-color:#060e38;
@@ -104,7 +104,7 @@ nav {
 }
 
 #contact h2 {
-   font-family:Gotham Rounded;
+   font-family:Roboto;
    color:white;
 }
 
