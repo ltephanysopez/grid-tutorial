@@ -1,4 +1,4 @@
-# CSS GRID TUTORIAL
+# CSS GRID TUTORIAL ✨
 
 ## 👩🏽‍💻 _Hi! This tutorial showcases how to create responsive web layouts with CSS Grid._
 
@@ -75,7 +75,7 @@ To position and resize the items we’ll target them by using the grid-column an
 ```
 The markup above says that the first item will span from column line 1, and end at column line 4. In other words, it’ll take up the entire row. Here’s how that’ll play out on the screen:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://pbs.twimg.com/media/Dp66YO3UwAAYJXv.jpg:large" height=450>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://pbs.twimg.com/media/Dp66YO3UwAAYJXv.jpg:large" height=450>
 
 Since we're using the first item is taking up the entire first row, the rest of the items are pushed down.
 *****************
@@ -107,8 +107,8 @@ And that's the basics of CSS Grid! With the properties we've discussed so far, l
 
 Thanks for reading! I hope you found this tutorial useful. If you want to learn more about CSS Grid, check out these awesome resources:
 
-Grid Critters: https://www.gridcritters.com/
-W3Schools: https://www.w3schools.com/css/css_grid.asp
-CSS Tricks: https://css-tricks.com/snippets/css/complete-guide-grid/
-Grid by Example: https://gridbyexample.com/examples/
-Learn CSS Grid for free: https://scrimba.com/g/gR8PTE
+- Grid Critters: https://www.gridcritters.com/
+- W3Schools: https://www.w3schools.com/css/css_grid.asp
+- CSS Tricks: https://css-tricks.com/snippets/css/complete-guide-grid/
+- Grid by Example: https://gridbyexample.com/examples/
+- Learn CSS Grid for free: https://scrimba.com/g/gR8PTE
