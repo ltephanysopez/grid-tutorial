@@ -1,17 +1,17 @@
-# crew-static-website
+#📓 CSS GRID TUTORIAL`
+You can see the layout in action here: https://ltephanysopez.github.io/grid-tutorial/
 
-https://ltephanysopez.github.io/static-web/
+## 👩🏽‍💻 _Hi! This tutorial showcases how to create responsive web layouts with CSS Grid._
 
-# 🤠 _Hi! This is a mock-up website I've created to showcase to create columns and rows with CSS Grid._
 
 Chances are, I've either directed you here, or you've been spelunking through my GitHub repos: in which case, welcome!  
-This tutorial assumes you have some fundamental knowledge of HTML/CSS, but if you don't, that's okay too! 
+This tutorial assumes you have some fundamental knowledge of HTML/CSS, but if you don't, that's okay too!
 
 ***************
 
-## `CSS GRID`
+### `CSS GRID`
 
-
+<img src="https://pbs.twimg.com/media/Dp6psotU0AELSum.jpg:large" height=220>
 
 
 *****************
