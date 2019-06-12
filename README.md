@@ -28,7 +28,7 @@ Let's create a container that holds a couple of items in our HTML.
 
 To turn our container into a grid, we simply give it a `display` of grid:
 ```
-#grid {
+.grid {
     display: grid;
 }
 ```
@@ -40,7 +40,7 @@ Because we haven't defined any grid properties yet, our current grid will simply
 To make a two-dimensional layout, we’ll need to define the columns and rows. For this example, we'll create three columns and two rows by using the `grid-template-row` and `grid-template-column` properties.
 
 ```
-#grid {
+.grid {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 50px 50px;
@@ -53,7 +53,7 @@ As we’ve written three values for `grid-template-columns`, we’ll get three c
 
 Using the same markup with different values, let’s create a 3x3 grid.
 ```
-#grid {
+.grid {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 100px 100px 100px;
