@@ -14,15 +14,15 @@ CSS Grid is a technique in CSS that allows developers to create responsive web d
 Let's create a container that holds a couple of items in our HTML.
 ```
 <div class="grid">
-  <div class="item-1">1</div>
-  <div class="item-2">2</div>
-  <div class="item-3">3</div>
-  <div class="item-4">4</div>
-  <div class="item-5">5</div>
-  <div class="item-6">6</div>
-  <div class="item-7">7</div>
-  <div class="item-8">8</div>
-  <div class="item-9">9</div>
+  <div id="item-1">1</div>
+  <div id="item-2">2</div>
+  <div id="item-3">3</div>
+  <div id="item-4">4</div>
+  <div id="item-5">5</div>
+  <div id="item-6">6</div>
+  <div id="item-7">7</div>
+  <div id="item-8">8</div>
+  <div id="item-9">9</div>
 </div>
 ```
 
@@ -65,7 +65,7 @@ Using the same markup with different values, let’s create a 3x3 grid.
 ## Position and Resizing
 To position and resize the items we’ll target them by using the grid-column and grid-row properties, which define items by grid _lines_:
 ```
-.item-1 {
+#item-1 {
     grid-column-start: 1;
     grid-column-end: 4;
 }
@@ -80,19 +80,19 @@ Since we're using the first item is taking up the entire first row, the rest of 
 And that's the basics of CSS Grid! With the properties we've discussed so far, let’s rearrange the items a little bit.
 
 ```
-.item-1 {
+#item-1 {
     grid-column-start: 1;
     grid-column-end: 4;
 }
-.item-2 {
+#item-2 {
     grid-column-start: 1;
     grid-column-end: 3;
 }
-.item-3 {
+#item-3 {
     grid-row-start: 2;
     grid-row-end: 4;
 }
-.item-6 {
+#item-6 {
     grid-column-start: 1;
     grid-column-end: 4;
 }
